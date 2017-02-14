@@ -13,7 +13,7 @@ head:
 url:
     rss:
     daily_pic: "#"
-    logo: "#"
+    logo: "/about"
 
 
 # ---------------------------------------------------------------
@@ -26,7 +26,7 @@ scheme: Paradox
 
 # UI & UX: slogan, color, effect
 uiux:
-    slogan: "Hi, nice to meet you"
+    slogan: "Make Each Day Count!"
     theme_color: "#0097A7"
     theme_sub_color: "#00838F"
     hyperlink_color: "#00838F"
@@ -84,14 +84,14 @@ fonts: Roboto, "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "
 
 # SNS Menu
 sns:
-    email: youremail@email.com
-    facebook: "https://www.facebook.com/facebook"
-    twitter: "https://twitter.com/twitter"
-    googleplus: "https://www.google.com/"
+    email: 924976874@qq.com
+    facebook: 
+    twitter: 
+    googleplus: 
     weibo: 
     instagram: 
     tumblr: 
-    github: 
+    github: "https://github.com/zhl3391"
     linkedin: 
     zhihu: 
     bilibili: 
@@ -99,22 +99,22 @@ sns:
 
 # SNS Share Switch
 sns_share:
-    twitter: true
-    facebook: true
-    googleplus: true
+    twitter: false
+    facebook: false
+    googleplus: false
     weibo: true
     linkedin: false
-    qq: false
+    qq: true
     telegram: false
 
 # Sidebar User Dropdown
 dropdown:
     Email Me:
-        link: "#"
+        link: "Mailto:924976874@qq.com"
         icon: email
 
 # Sidebar Categories Switch
-sidebar_categories: false
+sidebar_categories: true
 
 # Pages Menu
 pages:
