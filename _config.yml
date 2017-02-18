@@ -44,7 +44,7 @@ js_effect:
 # markdown available value:
 #     Material | Github | Plain
 reading:
-    markdown: Github
+    markdown: Material
     entry_excerpt: 80
     code_highlight: solarized-white
 
