@@ -44,7 +44,7 @@ js_effect:
 # markdown available value:
 #     Material | Github | Plain
 reading:
-    markdown: Material
+    markdown: Github
     entry_excerpt: 80
     code_highlight: solarized-white
 
@@ -118,6 +118,8 @@ sidebar_categories: true
 
 # Pages Menu
 pages:
+    胡说八道:
+        link: "/talk"
     #About:
         #link: "/about"
         #icon: person
@@ -133,8 +135,8 @@ qrcode: false
 # Available value of "use":
 #     duoshuo | disqus
 comment:
-    use:
-    shortname:
+    use: duoshuo
+    shortname: zhouhl
     duoshuo_thread_key_type: path
     duoshuo_embed_js_url: "https://static.duoshuo.com/embed.js"
 
@@ -147,9 +149,9 @@ search:
 
 # Leancloud Views
 leancloud:
-    enable: false
-    app_id: #你的app_id
-    app_key: #你的app_key
+    enable: true
+    app_id: f59JsfR6umGW7zALv9sgKs83-gzGzoHsz
+    app_key: bo8otIy1gbYPsyrhhAJBNKg3
     av_core_mini: "https://cdn1.lncld.net/static/js/av-core-mini-0.6.1.js"
 
 # Busuanzi 不蒜子 Views
